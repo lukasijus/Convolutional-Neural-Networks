@@ -14,3 +14,5 @@ Convolutional Neural Networks: Step by Step
     Create mask
     Distribute value
     Pooling backward (optional)
+    
+# Start by opening Convolution+model+-+Step+by+Step+-+v2.ipynb
